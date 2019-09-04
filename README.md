@@ -271,7 +271,7 @@ Available build arguments:
 |--------------------|-------------------------------------------------------------------------|
 |`VERSION`           |Version of InspIRCd. Uses `-b`-parameter from `git clone`                |
 |`CONFIGUREARGS`     |Additional Parameters. Used to enable core extras like `m_geoip.cpp`     |
-|`EXTRASMODULES`     |Additional Modules from [inspircd-extras](https://github.com/inspircd/inspircd-extras/tree/master/2.0) repository like `m_geoipban`|
+|`EXTRASMODULES`     |Additional Modules from [inspircd-contrib](https://github.com/inspircd/inspircd-contrib) repository like `m_geoipban`|
 |`BUILD_DEPENDENCIES`|Additional packages which are only needed during compilation             |
 |`RUN_DEPENDENCIES`  |Additional packages which are needed to run InspIRCd                     |
 
